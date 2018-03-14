@@ -1,0 +1,1 @@
+java -jar "C:\Program Files\checker-framework-2.3.2\checker-framework-2.3.2\checker\dist\checker.jar" -processor signedness FirstUnsigned.java
